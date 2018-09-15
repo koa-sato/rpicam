@@ -1,24 +1,7 @@
-# README
+Project to stream video feed from Raspberry Pi 3 to a website. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Features:
+- Allowing users access to website
+- Website done with Ruby on Rails
+- MySQL to store user info
+- Python run on Raspberry Pi to get feed/images from attached camera
